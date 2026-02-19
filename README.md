@@ -1,4 +1,4 @@
-# Tennis Project
+# Tennis Project with Pattern anomaly detection 
 
 ## Intro
 This project is the final project for B.Sc degree at the Technion institute.
