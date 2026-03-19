@@ -7,3 +7,4 @@
 [2026-03-18T06:12:32.616Z] update ESLint config with stricter rules
 [2026-03-18T14:06:23.986Z] improve startup time by deferring non-critical init
 [2026-03-19T10:58:04.852Z] replace callback pattern with async/await
+[2026-03-19T12:50:26.047Z] improve error code reference table
