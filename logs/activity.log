@@ -9,3 +9,4 @@
 [2026-03-19T10:58:04.852Z] replace callback pattern with async/await
 [2026-03-19T12:50:26.047Z] improve error code reference table
 [2026-03-20T09:11:19.877Z] resolve null pointer in user validation
+[2026-03-21T06:18:50.941Z] update GitHub Actions workflow to Node 20
