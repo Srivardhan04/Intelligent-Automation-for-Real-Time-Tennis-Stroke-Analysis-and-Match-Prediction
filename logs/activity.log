@@ -10,3 +10,4 @@
 [2026-04-03T15:29:17.308Z] extract validation into separate module
 [2026-04-04T09:31:27.672Z] resolve merge conflicts after rebase
 [2026-04-04T09:40:08.153Z] refactor config loading to support multiple envs
+[2026-04-05T06:50:43.391Z] clean up unused environment variables
