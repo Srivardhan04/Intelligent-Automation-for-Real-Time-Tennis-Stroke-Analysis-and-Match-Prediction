@@ -5,3 +5,4 @@
 [2026-04-09T11:24:34.353Z] sync package-lock after merge
 [2026-04-09T13:27:57.133Z] archive legacy migration scripts
 [2026-04-10T04:32:46.265Z] fix incorrect status code for validation errors
+[2026-04-10T05:21:11.575Z] increase test coverage to 85%
