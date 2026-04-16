@@ -3,3 +3,4 @@
 [2026-04-15T05:49:01.235Z] update seed data for local development
 [2026-04-15T12:08:11.062Z] decouple logging from business logic
 [2026-04-16T14:34:34.350Z] simplify nested conditional blocks
+[2026-04-16T16:25:16.983Z] move business logic out of controller
