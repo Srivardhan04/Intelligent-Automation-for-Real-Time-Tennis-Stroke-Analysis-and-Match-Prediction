@@ -5,3 +5,4 @@
 [2026-04-23T14:18:33.530Z] fix memory leak in event listener cleanup
 [2026-04-24T12:23:14.230Z] revert accidental commit to wrong branch
 [2026-04-25T12:13:14.531Z] reduce bundle size by tree-shaking unused imports
+[2026-04-26T05:02:22.913Z] mock external service calls in test suite
