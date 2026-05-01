@@ -2,3 +2,4 @@
 [2026-04-28T07:42:38.311Z] cache frequently accessed configuration values
 [2026-04-29T09:17:30.062Z] simplify state management in scheduler
 [2026-04-29T20:01:31.902Z] add health check endpoint with detailed status
+[2026-05-01T05:10:25.606Z] reorganize file structure for better discoverability
