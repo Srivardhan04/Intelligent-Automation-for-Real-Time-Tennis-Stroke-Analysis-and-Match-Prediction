@@ -6,3 +6,4 @@
 [2026-05-01T12:53:56.215Z] simplify state management in scheduler
 [2026-05-01T16:10:31.479Z] bugretry logic was skipping last attempt
 [2026-05-02T07:23:10.448Z] fix incorrect timestamp parsing for UTC dates
+[2026-05-02T11:35:43.308Z] update error messages to be more user-friendly
