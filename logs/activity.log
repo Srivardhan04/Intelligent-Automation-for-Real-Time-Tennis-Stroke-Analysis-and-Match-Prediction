@@ -3,3 +3,4 @@
 [2026-05-04T15:33:59.021Z] refactor error handling to use custom error classes
 [2026-05-05T07:27:31.642Z] add rate limiting to public endpoints
 [2026-05-06T03:38:18.492Z] fix test data setup for isolated test runs
+[2026-05-06T05:24:35.299Z] update cron expression for new maintenance window
