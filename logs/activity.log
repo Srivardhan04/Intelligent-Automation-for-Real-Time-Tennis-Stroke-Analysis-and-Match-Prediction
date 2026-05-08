@@ -11,3 +11,4 @@
 [2026-05-07T13:35:19.253Z] add search with debounced input
 [2026-05-07T14:03:43.292Z] fix incorrect status code for validation errors
 [2026-05-07T16:06:49.641Z] correct off-by-one error in pagination logic
+[2026-05-08T09:46:20.069Z] patch XSS vulnerability in form input
