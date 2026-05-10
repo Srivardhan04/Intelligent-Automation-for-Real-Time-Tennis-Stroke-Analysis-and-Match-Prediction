@@ -15,3 +15,4 @@
 [2026-05-08T09:55:56.282Z] handle undefined response from external API
 [2026-05-08T16:11:59.731Z] add caching step to GitHub Actions workflow
 [2026-05-09T07:50:07.873Z] fix edge case when input array is empty
+[2026-05-10T06:02:44.162Z] support CSV and JSON export formats
