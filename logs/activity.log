@@ -1,1 +1,2 @@
 [2026-05-11T13:03:04.802Z] fix flaky build caused by parallel test collision
+[2026-05-12T06:04:57.132Z] extract validation into separate module
