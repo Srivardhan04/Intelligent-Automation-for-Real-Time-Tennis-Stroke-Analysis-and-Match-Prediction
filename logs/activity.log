@@ -2,3 +2,4 @@
 [2026-05-12T06:04:57.132Z] extract validation into separate module
 [2026-05-12T14:08:16.335Z] add timeout handling for slow network requests
 [2026-05-13T08:56:59.387Z] clean up commented-out dead code
+[2026-05-13T16:11:30.577Z] configure auto-deploy for staging branch
