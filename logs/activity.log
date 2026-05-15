@@ -6,3 +6,4 @@
 [2026-05-14T08:05:31.459Z] add Prometheus metrics endpoint
 [2026-05-14T11:22:16.842Z] fix memory leak in event listener cleanup
 [2026-05-15T10:03:43.507Z] add timeout handling for slow network requests
+[2026-05-15T11:19:25.027Z] update cron expression for new maintenance window
