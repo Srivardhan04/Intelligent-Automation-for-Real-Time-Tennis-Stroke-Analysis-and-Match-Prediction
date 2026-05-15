@@ -5,3 +5,4 @@
 [2026-05-13T16:11:30.577Z] configure auto-deploy for staging branch
 [2026-05-14T08:05:31.459Z] add Prometheus metrics endpoint
 [2026-05-14T11:22:16.842Z] fix memory leak in event listener cleanup
+[2026-05-15T10:03:43.507Z] add timeout handling for slow network requests
