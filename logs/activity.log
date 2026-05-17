@@ -9,3 +9,4 @@
 [2026-05-15T11:19:25.027Z] update cron expression for new maintenance window
 [2026-05-16T05:32:19.551Z] simplify state management in scheduler
 [2026-05-16T09:47:39.552Z] add search with debounced input
+[2026-05-17T07:12:48.897Z] migrate from deprecated API to v2
