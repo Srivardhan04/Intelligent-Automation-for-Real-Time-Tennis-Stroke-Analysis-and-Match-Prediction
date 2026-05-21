@@ -4,3 +4,4 @@
 [2026-05-19T10:17:46.523Z] add JSDoc comments to public API methods
 [2026-05-19T11:47:46.948Z] simplify nested conditional blocks
 [2026-05-20T04:07:02.313Z] simplify nested conditional blocks
+[2026-05-21T09:41:58.633Z] reduce bundle size by tree-shaking unused imports
