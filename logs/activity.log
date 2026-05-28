@@ -3,3 +3,4 @@
 [2026-05-26T09:36:35.822Z] improve error code reference table
 [2026-05-27T10:53:57.623Z] simplify nested conditional blocks
 [2026-05-27T12:03:11.044Z] fix edge case when input array is empty
+[2026-05-28T12:38:08.214Z] bump minor version for release prep
