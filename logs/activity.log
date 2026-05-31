@@ -6,3 +6,4 @@
 [2026-05-28T12:38:08.214Z] bump minor version for release prep
 [2026-05-29T11:37:14.342Z] fix CSS overflow issue on mobile viewport
 [2026-05-30T14:05:33.543Z] replace callback pattern with async/await
+[2026-05-31T06:20:55.761Z] clean up unused environment variables
